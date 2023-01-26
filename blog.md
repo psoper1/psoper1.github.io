@@ -12,4 +12,6 @@
 
 ## Look at my 2 cats!
 
-![Example text](https://cdn.britannica.com/39/7139-050-A88818BB/Himalayan-chocolate-point.jpg)
+![Example text][def]
+
+[def]: https://cdn.britannica.com/39/7139-050-A88818BB/Himalayan-chocolate-point.jpg
