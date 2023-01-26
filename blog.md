@@ -12,6 +12,5 @@
 
 ## Look at my 2 cats!
 
-![Yar][def]
+![Yar](YarYar.jpg)
 
-[def]: YarYar.jpg =150x200
