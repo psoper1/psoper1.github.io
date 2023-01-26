@@ -14,4 +14,4 @@
 
 ![Yar][def]
 
-[def]: YarYar.jpg
+[def]: YarYar.jpg =150x200
