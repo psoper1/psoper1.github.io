@@ -10,3 +10,6 @@
 
 <sub>I'm weird because I'm pretty much an open book but also can be very closed off at the same time. After you get to know me you realize that I am very dependable, eager to help and pretty funny! I've messed around with making 2D games in Unity which is really what inspired me to get in to the coding world. Something else about me, I write music. All kinds really, at the moment mainly cinematic scores have been my go to. My personal favorite movie score is from *Interstellar*. I have watched that movie **so** many times and listened to the soundtrack even more. It's just **SO** good. If you are interested, you can find some of my scores [here!](https://www.youtube.com/channel/UCsODJpIV9Zgn72ympqGVT-A)</sub>
 
+## Look at my 2 cats!
+
+![Example text](https://cdn.britannica.com/39/7139-050-A88818BB/Himalayan-chocolate-point.jpg)
