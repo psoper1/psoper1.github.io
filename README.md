@@ -1,5 +1,3 @@
-# prestons-blog-project
-
 ## i. Was your first week what you expected? Why? Why not?
 
 <sub>The first week so far is about what I expected. With the *Your Path*, it's nice to be able to learn at your own pace rather than try to get everyone on the same page at the same time. This would cause too much confusion and people would feel rushed. Rushed is not something I have felt in this first week so far. The instructors are very knowledgeable and willing to help at any given moment and that has made the process very enjoyable.</sub>
