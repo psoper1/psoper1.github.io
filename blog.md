@@ -12,7 +12,12 @@
 
 ## Look at my 2 cats!
 
-<img src="YarYar.jpg" width="100px" alt="Yar">
+<img src="YarYar.jpg" width="100px" alt="Yar" style="float: left; padding-right: 10px">
 
-<img src="DataData.jpg" width="100px" alt="Yar">
+<img src="DataData.jpg" width="104px" alt="Yar">
 
+<style type="text/css">
+    body{
+        background-color: rgb(218, 216, 214)
+    }
+</style>
