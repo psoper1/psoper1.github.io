@@ -12,5 +12,5 @@
 
 ## Look at my 2 cats!
 
-![Yar](YarYar.jpg)
+<img src="YarYar.jpg" width="100px" alt="Yar">
 
