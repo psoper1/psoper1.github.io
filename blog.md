@@ -47,3 +47,23 @@
 ## How did you overcome challenges during Onboarding?
 
 <sub>By reminding myself why I'm doing it. I want to give myself and my wife a better life than we have known. Also, whenever someone calls in asking what I consider a <em>dumb<em> question, reminds me that I don't want to do that for the rest of my life.</sub>
+
+
+
+### Entry 3
+
+## What is the number one thing that held you back this week? Why?
+
+<sub>Jumping straight in to my code without psuedocode. It's important, just hard to get the hang of, however I will. </sub>
+
+## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+
+<sub>I'd like to learn more about Bootstrap and how it integrates into your work through their CDN's. Knowing what to change and where with the CDN itself being 13000 lines of code.</sub>
+
+## How does In-Person Bootcamp compare to Remote Onboarding?
+
+<sub>That's a hard question to answer, I have not done an in-person sort of Bootcamp and will reference my previous blogpost from Entry 2, question 3.</sub>
+
+## What is your “Why”?
+
+<sub>To give myself and my family a better life, as well as go in to a career where I may be stressed, but a good stressed and not hate my job as I have experienced up until now.</sub>
