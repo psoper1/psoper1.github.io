@@ -67,3 +67,19 @@
 ## What is your “Why”?
 
 <sub>To give myself and my family a better life, as well as go in to a career where I may be stressed, but a good stressed and not hate my job as I have experienced up until now.</sub>
+
+## What did you learn about that helped you understand the development process?
+
+<sub>I learned to be confident in my code and not second guess. As well as not be afraid to break something as it can always be fixed with the right mindset.</sub>
+
+## What does it mean to develop good code?
+
+<sub>You could say good code is code that works, however you can give more to that by saying that it's code that works, yes, but also code that flows well, is readable and easy to come back to for patches or anything of that nature.</sub>
+
+## What does it mean to be a good developer?
+
+<sub>Be confident, trust yourself and A.B.L., Always Be Learning. Technology changes so much from day to day, so to keep an open mind and always be learning are great traits to have as a developer.</sub>
+
+## What is one thing that programmers hate doing?
+
+<sub>I'm going to base this off of what I have learned from class, Carousels and converting pages to PDF's to print. Haha!</sub>
