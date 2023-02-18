@@ -68,6 +68,10 @@
 
 <sub>To give myself and my family a better life, as well as go in to a career where I may be stressed, but a good stressed and not hate my job as I have experienced up until now.</sub>
 
+
+### Entry 4
+
+
 ## What did you learn about that helped you understand the development process?
 
 <sub>I learned to be confident in my code and not second guess. As well as not be afraid to break something as it can always be fixed with the right mindset.</sub>
