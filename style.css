@@ -2,20 +2,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: 60vh;
     background: #222528
 }
 
 .profile {
     position: relative;
     width: 300px;
-    height: 350px;
+    height: 300px;
     background: url("./Pictures/contact\ card\ photo.jpg");
     background-size: cover;
     cursor: pointer;
-    border: 12px;
-    border-top-right-radius: 35px !important;
-    border-radius: 6px
+    /* border: 12px; */
+    /* border-top-right-radius: 35px !important; */
+    border-radius: 50%
 }
 
 .overlay {
@@ -35,13 +35,18 @@
 }
 
 .social-icons {
+    display: block;
+    margin-left: 160px;
+    margin-right: auto;
+    width: 50%;
+   
     display: flex;
     list-style: none;
     bottom: 10px;
-    position: absolute;
+    position: inherit;
     text-align: center;
     justify-content: center;
-    left: 22px
+    left: 22px 
 }
 
 .social-icons li {
