@@ -79,3 +79,9 @@
     color: #fff;
     flex: column
 }
+
+.arrow-down {
+    position: relative;
+    left: 48%;
+    margin-top: 14%;
+}
