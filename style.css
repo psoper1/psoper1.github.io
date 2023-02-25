@@ -98,10 +98,10 @@ body { background-color: #292929; }
 
 section {
     width: 101%;
-    height: 29vh;
+    height: 33vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
 }
 
 ul#downArrow {
@@ -110,6 +110,7 @@ ul#downArrow {
     display: flex;
     align-items: center;
     flex-flow: column;
+    margin-top: 400%;
 }
 
 ul#downArrow li {
