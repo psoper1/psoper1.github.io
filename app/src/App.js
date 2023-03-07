@@ -10,7 +10,7 @@ function App() {
     <>
     <NavBar />
     <MainContainer />
-    {/* <DownArrow /> */}
+    <DownArrow />
     <AboutMe />
     </>
   );

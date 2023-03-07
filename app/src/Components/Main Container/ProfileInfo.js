@@ -7,7 +7,7 @@ function ProfileInfo() {
                             <h4>Preston Soper</h4> 
                             <span>Web Developer</span>
                         </div>
-
+                        
                     </div>
 
                 </div>
