@@ -2,10 +2,7 @@ function AboutMe() {
     return (
         <>
         <section id="about">
-            <h3>Lorem ipsum dolor sit amet. Est quasi culpa sit dolor galisum est facere mollitia ut ipsam voluptatibus
-                sed voluptatum dolores et praesentium blanditiis. Qui dolore nemo ut modi architecto sit quaerat
-                reiciendis. Non aliquam asperiores sit recusandae earum et voluptates nihil qui aliquid accusamus et
-                ducimus nemo aut ratione doloribus id enim voluptates.</h3>
+            <h3>Hello! My name is Preston. Coding is my jam! Also gaming, building PC's, writing and playing music, telling jokes and well, jam... is also my jam!</h3>
         </section>
         </>
     )
