@@ -1,7 +1,7 @@
 function NavBar() {
     return (
         <>
-        <nav className=" navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav id="navbarid" className=" navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
             <a className="navbar-brand" href="#"></a>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"

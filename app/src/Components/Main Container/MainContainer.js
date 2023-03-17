@@ -4,7 +4,7 @@ import SocialIcons from './SocialIcons'
 function MainContainer() {
     return (
         <>
-            <div className="container contact-card">
+            <div id="main-container" className="container contact-card">
             <ProfileWrapper />
             <SocialIcons />
             </div>
