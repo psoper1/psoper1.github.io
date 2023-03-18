@@ -7,7 +7,7 @@
   border-width: 1px;
 }
 
-.footer{
+.footer {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
@@ -33,9 +33,11 @@
   opacity: 1
 }
 
-.linkedin, .github, .telephone {
-  text-decoration:none;
-  color:inherit;
+.linkedin,
+.github,
+.telephone {
+  text-decoration: none;
+  color: inherit;
 }
 
 .social-icons {
@@ -153,11 +155,11 @@ ul#downArrow::after {
 }
 
 ::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgb(185, 184, 184); 
+  -webkit-box-shadow: inset 0 0 6px rgb(185, 184, 184);
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
 }
