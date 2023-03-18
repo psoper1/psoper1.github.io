@@ -9,14 +9,18 @@
   border-color: rgb(255, 255, 255); */
 }
 
-#navbarid {
+.aboutwrap {
+  width: 0%;
+}
+
+/* #navbarid {
   background-color: black;
   position: absolute;
   width: 100%;
   line-height: 60px;
   position: sticky;
   top: 0px;
-}
+} */
 
 .profile {
   position: relative;
