@@ -1,17 +1,20 @@
-// import logo from './logo.svg';
 import './App.css';
-import AboutMe from './Components/AboutMe';
-import DownArrow from './Components/DownArrow';
-import MainContainer from './Components/Main Container/MainContainer';
-import NavBar from './Components/NavBar'
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from './Components/Home';
+import Blog from './Components/Blog';
+import Footer from './Components/Footer';
 
 function App() {
   return (
     <>
-    <NavBar />
-    <MainContainer />
-    {/* <DownArrow /> */}
-    {/* <AboutMe /> */}
+    <Router>
+
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/blog" element={<Blog />} />
+    </Routes>
+    </Router>
+    
     </>
   );
 }
