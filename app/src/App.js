@@ -10,8 +10,8 @@ function App() {
     <>
     <NavBar />
     <MainContainer />
-    <DownArrow />
-    <AboutMe />
+    {/* <DownArrow /> */}
+    {/* <AboutMe /> */}
     </>
   );
 }
