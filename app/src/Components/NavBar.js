@@ -9,10 +9,10 @@ function NavBar() {
                 <span className="navbar-toggler-icon"></span>
             </button>
             <div className="nav justify-content-center collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div className="navbar-nav">
-                    <a className="nav-link active" aria-current="page" href="/workspace/psoper1.github.io/app/src/index.js">Home</a>
-                    <a className="nav-link" href="/pages/blog.html">Blog</a>
-                    <a className="nav-link" href="#">Projects</a>
+                <div className="navbar-nav">                    
+                    <a className="nav-link active" aria-current="page" href="/">Home</a>                   
+                    <a className="nav-link" href="/blog">Blog</a>                    
+                    <a className="nav-link" href="/projects">Projects</a>
                 </div>
             </div>
         </div>
