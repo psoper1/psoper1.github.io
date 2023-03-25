@@ -7,6 +7,14 @@
   border-width: 1px;
 }
 
+.carousel-text-color {
+  color: black;
+}
+
+.CarImg {
+  filter: brightness(70%);
+}
+
 .footer {
   background-color: rgba(0, 0, 0, 0.2);
 }
