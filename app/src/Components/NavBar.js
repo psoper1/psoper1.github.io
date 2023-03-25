@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function NavBar() {
     return (
         <>
@@ -12,9 +14,12 @@ function NavBar() {
                     <div className="nav justify-content-center collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div className="navbar-nav">
                             {/* eslint-disable-next-line */}
-                            <a className="nav-link active" aria-current="page" href="/">Home</a>
-                            <a className="nav-link" href="/blog">Blog</a>
-                            <a className="nav-link" href="/projects">Projects</a>
+                            {/* <a className="nav-link active" aria-current="page" href="/">Home</a> */}
+                            <Link to="/" className="nav-link active">Home</Link>
+                            <Link to="/blog" className="nav-link">Blog</Link>
+                            <Link to="/projects" className="nav-link">Projects</Link>
+                            {/* <a className="nav-link" href="/blog">Blog</a>
+                            <a className="nav-link" href="/projects">Projects</a> */}
 
                         </div>
                     </div>
