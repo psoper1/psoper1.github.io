@@ -9,9 +9,9 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/projects" element={<Projects />} />
+          <Route path="/psoper1.github.io/" element={<Home />} />
+          <Route path="/psoper1.github.io/blog" element={<Blog />} />
+          <Route path="/psoper1.github.io/projects" element={<Projects />} />
         </Routes>
       </Router>
     </>

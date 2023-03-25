@@ -13,8 +13,8 @@ function NavBar() {
                         <div className="navbar-nav">
                             {/* eslint-disable-next-line */}
                             <a className="nav-link active" aria-current="page" href="/">Home</a>
-                            <a className="nav-link" href="https://psoper1.github.io//blog">Blog</a>
-                            <a className="nav-link" href="https://psoper1.github.io//projects">Projects</a>
+                            <a className="nav-link" href="/psoper1.github.io//blog">Blog</a>
+                            <a className="nav-link" href="/psoper1.github.io//projects">Projects</a>
 
                         </div>
                     </div>
