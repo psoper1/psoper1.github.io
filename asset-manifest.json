@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.462fc2ed.css",
+    "main.js": "/static/js/main.69555bac.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/TicTacToeScreenshot.jpg": "/static/media/TicTacToeScreenshot.e8a109f2b78011ca8304.jpg",
+    "static/media/RestaurantMenuScreenshot.jpg": "/static/media/RestaurantMenuScreenshot.4e23573ab6598031c3fb.jpg",
+    "static/media/contact card photo.jpg": "/static/media/contact card photo.67e5caa2a6a98f92f0ab.jpg",
+    "static/media/PythonSqlHeroesScreenshot.jpg": "/static/media/PythonSqlHeroesScreenshot.726f589e2d07e1569f42.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/WeatherAppScreenshot.jpg": "/static/media/WeatherAppScreenshot.58fb07aec959d8ef7175.jpg",
+    "static/media/MindReaderScreenshot.jpg": "/static/media/MindReaderScreenshot.e954f2ef3d6c9f60ba71.jpg",
+    "index.html": "/index.html",
+    "main.462fc2ed.css.map": "/static/css/main.462fc2ed.css.map",
+    "main.69555bac.js.map": "/static/js/main.69555bac.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.462fc2ed.css",
+    "static/js/main.69555bac.js"
+  ]
+}
