@@ -157,6 +157,22 @@ function Blog() {
                     </div>
                 </div>
             </nav>
+            <h2>Entry 5</h2>
+            <nav>
+                <div className="card text-white bg-secondary mb-3">
+                    <div className="row g-0">
+                        <div className="col">
+
+                            <h3>What are some similarities and differences you can see with JS and Python?</h3>
+                            <p>Overall functions seem very similar. Different syntax of course but I feel like knowing Javascript already really prepared me to go in to Python as you can think, well, how would I do this in Javascript then (with some possible syntax research) you can write the same function in Python (Sometimes even easier than Javascript! :))</p>
+                            <h3>If you had started with Python instead of JS, how do you think the Bootcamp would be different? Would you have benefited?</h3>
+                            <p></p>
+                            <h3>Think of a project or tech based tool that you use often and think about what the database structure might look like for it. Do you feel like you have a better understanding of how it works now and could you see yourself enjoying building something like that in the future?</h3>
+                            <p>Although the database structure can be very complicated and SQL syntax can get you if you aren't paying attention, I feel like I mesh well with SQL and database structure, how it's laid out and how the tables can be told to communicate with each other.</p>
+                        </div>
+                    </div>
+                </div>
+            </nav>
             <Footer />
         </>
     )
