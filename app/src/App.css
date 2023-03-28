@@ -21,6 +21,10 @@
   }
 }
 
+.active {
+  color: blue;
+}
+
 .carousel-text-color {
   color: black;
 }

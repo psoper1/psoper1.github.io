@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { NavLink } from "react-router-dom";
 
 function NavBar() {
 
@@ -16,18 +17,14 @@ function NavBar() {
                     </button>
                     <div className="nav justify-content-center navbar-collapse" id="navbarNavAltMarkup">
                         {showMenu && <div className="navbar-nav">
-                            {/* eslint-disable-next-line */}
-                            <a className="nav-link active" aria-current="page" href="/">Home</a>
-                            <a className="nav-link" href="/blog">Blog</a>
-                            <a className="nav-link" href="/projects">Projects</a>
-
+                            <NavLink to="/" className="nav-link">Home</NavLink>
+                            <NavLink to="/blog" className="nav-link">Blog</NavLink>
+                            <NavLink to="/projects" className="nav-link">Projects</NavLink>
                         </div>}
                         <div id="theNav" className="navbar-nav">
-                            {/* eslint-disable-next-line */}
-                            <a className="nav-link active" aria-current="page" href="/">Home</a>
-                            <a className="nav-link" href="/blog">Blog</a>
-                            <a className="nav-link" href="/projects">Projects</a>
-
+                            <NavLink to="/" activeClassName="selected" className="nav-link">Home</NavLink>
+                            <NavLink to="/blog" activeClassName="selected" className="nav-link">Blog</NavLink>
+                            <NavLink to="/projects" activeClassName="selected" className="nav-link">Projects</NavLink>
                         </div>
                     </div>
                 </div>
