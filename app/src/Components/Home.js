@@ -9,7 +9,7 @@ function Home() {
         <NavBar />
         <MainContainer />
         <AboutMe />
-        <Footer />
+        {/* <Footer /> */}
         </>
     )
 }
