@@ -1,5 +1,9 @@
 import './App.css';
+
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
+
 import Home from './Components/Home';
 import Blog from './Components/Blog';
 import Projects from './Components/Projects';
@@ -7,7 +11,11 @@ import Projects from './Components/Projects';
 function App() {
   return (
     <>
+
+      <Router>
+
       <Router basename="/">
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/blog" element={<Blog />} />
@@ -19,6 +27,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
@@ -52,3 +61,4 @@ export default App;
     </Routes>
   </HashRouter>
 </Router> */
+

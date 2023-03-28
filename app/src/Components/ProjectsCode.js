@@ -13,8 +13,12 @@ function ProjectsCode() {
                     <a href="https://psoper1.github.io/tic-tac-toe-game/"> <img
                         className="CarImg text-center rounded mx-auto d-block w-50"
                         src={TicTacToeScreenshot}
+
+                        alt="First slide" /></a>
+
                         alt="First slide"
                     /></a>
+
                     <Carousel.Caption>
                         <h3 className="carousel-text-color">Dragonball Super: Super Tic-Tac-Toe</h3>
                         <p className="carousel-text-color">Tech Stack: HTML, CSS, Javascript</p>
@@ -24,8 +28,12 @@ function ProjectsCode() {
                     <a href="https://psoper1.github.io/WeatherApp/"> <img
                         className="CarImg text-center rounded mx-auto d-block w-50"
                         src={WeatherAppScreenshot}
+
+                        alt="Second slide" /></a>
+
                         alt="Second slide"
                     /></a>
+
 
                     <Carousel.Caption>
                         <h3 className="carousel-text-color">Weather App</h3>
@@ -36,8 +44,12 @@ function ProjectsCode() {
                     <a href="https://psoper1.github.io/mind-reader/"> <img
                         className="CarImg text-center rounded mx-auto d-block w-50"
                         src={MindReaderScreenshot}
+
+                        alt="Third slide" /></a>
+
                         alt="Third slide"
                     /></a>
+
 
                     <Carousel.Caption>
                         <h3 className="carousel-text-color">Mind Reader</h3>
@@ -48,8 +60,12 @@ function ProjectsCode() {
                     <a href="https://psoper1.github.io/menu-project/"> <img
                         className="CarImg text-center rounded mx-auto d-block w-50"
                         src={RestaurantMenuScreenshot}
+
+                        alt="First slide" /></a>
+
                         alt="First slide"
                     /></a>
+
                     <Carousel.Caption>
                         <h3 className="color-white">React: Restaruant Menu</h3>
                         <p className="color-white">Tech Stack: React, CSS (Must have CORS Chrome Extension to pull JSON data)</p>
@@ -59,14 +75,24 @@ function ProjectsCode() {
                     <a href="https://github.com/psoper1/superheroes_sql_python_project"> <img
                         className="CarImg text-center rounded mx-auto d-block w-50"
                         src={PythonSqlHeroesScreenshot}
+
+                        alt="First slide" /></a>
+
                         alt="First slide"
                     /></a>
+
                     <Carousel.Caption>
                         <h3 className="color-white">Python SQL Heroes Database</h3>
                         <p className="color-white">Tech Stack: Python, SQL (postgresql)</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
+
+        </>
+    )
+}
+export default ProjectsCode;
+
 
 
 
@@ -118,3 +144,4 @@ export default ProjectsCode;
                     <span className="visually-hidden">Next</span>
                 </button>
             </div> */}
+

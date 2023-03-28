@@ -7,6 +7,26 @@
   border-width: 1px;
 }
 
+
+.about {
+  font-family: Alkatra;
+}
+
+#about {
+  font-family: Alkatra;
+}
+
+@media only screen and (max-width: 991px) {
+  #theNav {
+    display: none;
+  }
+}
+
+.active {
+  color: blue;
+}
+
+
 .carousel-text-color {
   color: black;
 }
