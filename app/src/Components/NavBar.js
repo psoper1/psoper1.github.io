@@ -21,11 +21,13 @@ function NavBar() {
                             <NavLink to="/" className="nav-link">Home</NavLink>
                             <NavLink to="/blog" className="nav-link">Blog</NavLink>
                             <NavLink to="/projects" className="nav-link">Projects</NavLink>
+                            <NavLink to="/contact" className="nav-link">Contact</NavLink>
                         </div>}
                         <div id="theNav" className="navbar-nav">
                             <NavLink to="/" activeClassName="selected" className="nav-link">Home</NavLink>
                             <NavLink to="/blog" activeClassName="selected" className="nav-link">Blog</NavLink>
                             <NavLink to="/projects" activeClassName="selected" className="nav-link">Projects</NavLink>
+                            <NavLink to="/contact" className="nav-link">Contact</NavLink>
                         </div>
                     </div>
                 </div>
