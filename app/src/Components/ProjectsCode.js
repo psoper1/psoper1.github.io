@@ -35,8 +35,8 @@ function ProjectsCode() {
                         src={MindReaderScreenshot}
                         alt="Third slide" /></a>
                     <Carousel.Caption>
-                        <h3 className="carousel-text-color">Mind Reader</h3>
-                        <p className="carousel-text-color">Tech Stack: Javascript</p>
+                        <h3 className="color-white">Mind Reader</h3>
+                        <p className="color-white">Tech Stack: Javascript</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
