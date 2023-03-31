@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2d9bdc2.css",
-    "main.js": "/static/js/main.c02656c9.js",
+    "main.css": "/static/css/main.0a46a924.css",
+    "main.js": "/static/js/main.1fb5cf62.js",
     "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
     "static/media/TicTacToeScreenshot.jpg": "/static/media/TicTacToeScreenshot.e8a109f2b78011ca8304.jpg",
     "static/media/RestaurantMenuScreenshot.jpg": "/static/media/RestaurantMenuScreenshot.4e23573ab6598031c3fb.jpg",
@@ -12,12 +12,12 @@
     "static/media/WeatherAppScreenshot.jpg": "/static/media/WeatherAppScreenshot.58fb07aec959d8ef7175.jpg",
     "static/media/MindReaderScreenshot.jpg": "/static/media/MindReaderScreenshot.e954f2ef3d6c9f60ba71.jpg",
     "index.html": "/index.html",
-    "main.d2d9bdc2.css.map": "/static/css/main.d2d9bdc2.css.map",
-    "main.c02656c9.js.map": "/static/js/main.c02656c9.js.map",
+    "main.0a46a924.css.map": "/static/css/main.0a46a924.css.map",
+    "main.1fb5cf62.js.map": "/static/js/main.1fb5cf62.js.map",
     "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2d9bdc2.css",
-    "static/js/main.c02656c9.js"
+    "static/css/main.0a46a924.css",
+    "static/js/main.1fb5cf62.js"
   ]
 }
