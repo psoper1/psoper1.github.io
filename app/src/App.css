@@ -95,18 +95,16 @@
   color: inherit;
 }
 
-.social-icons {
-  margin-right: 22%;
+.icon {
+  padding-right: 25px;
 }
 
 
-.social-icons li {
-  border-width: 1px;
-  padding-left: 25%;
+.social-icons {
   list-style-type: none;
   justify-content: center;
-  align-items: center;
-  display: inline;
+  display: flex;
+  flex-direction: row;
 }
 
 .about {
@@ -121,8 +119,9 @@
 }
 
 #about {
-  width: 40%;
+  /* width: 40%; */
   height: auto;
+  margin-top: 124px;
 }
 
 * {
