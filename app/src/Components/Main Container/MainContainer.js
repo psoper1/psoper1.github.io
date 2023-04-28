@@ -6,7 +6,9 @@ function MainContainer() {
         <>
             <div id="main-container" className="container contact-card">
             <ProfileWrapper />
+            <div>
             <SocialIcons />
+            </div>
             </div>
         </>
     )

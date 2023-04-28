@@ -20,11 +20,34 @@
   font-family: Alkatra;
 }
 
-/* @media only screen and (max-width: 991px) {
-  #theNav {
-    display: none;
+.navbar {
+  background-color: #212529;
+  position: absolute;
+  width: 100%;
+  line-height: 25px;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+  /* box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2); */
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus,
+.navbar-toggler {
+    outline: none;
+    color: #0000ff00;
+    border: none;
+}
+
+@media (min-width: 1030px) {
+  .navbar-collapse {
+      display: block !important;
+      height: auto !important;
+      padding-bottom: 0;
+      overflow: visible !important;
   }
-} */
+}
 
 .active {
   color: blue;
