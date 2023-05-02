@@ -8,16 +8,17 @@ function NavBar() {
 
     return (
         <>
-            <nav id="navbarid" className=" navbar navbar-expand-lg navbar-dark bg-dark">
+            <nav className="navbar navbar-expand-lg navbar-light">
                 <div className="container-fluid">
-                    {/* eslint-disable-next-line */}
-                    <a className="navbar-brand" href="#"></a>
-                    <div className="nav justify-content-center navbar-collapse" id="navbarNavAltMarkup">
+                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span className="navbar-toggler-icon justify-content-end"></span>
+                    </button>
+                    <div className="collapse navbar-collapse justify-content-center" id="navbarNav">
                         <div className="navbar-nav">
-                            <NavLink to="/" className="nav-link">Home</NavLink>
-                            <NavLink to="/blog" className="nav-link">Blog</NavLink>
-                            <NavLink to="/projects" className="nav-link">Projects</NavLink>
-                            <NavLink to="/contact" className="nav-link">Contact</NavLink>
+                            <NavLink to="/" className="nav-link text-white">Home</NavLink>
+                            <NavLink to="/blog" className="nav-link text-white">Blog</NavLink>
+                            <NavLink to="/projects" className="nav-link text-white">Projects</NavLink>
+                            <NavLink to="/contact" className="nav-link text-white">Contact</NavLink>
                         </div>
                     </div>
                 </div>
