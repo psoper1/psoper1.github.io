@@ -35,17 +35,17 @@
 .navbar-toggler:active,
 .navbar-toggler-icon:focus,
 .navbar-toggler {
-    outline: none;
-    color: #0000ff00;
-    border: none;
+  outline: none;
+  color: #0000ff00;
+  border: none;
 }
 
 @media (min-width: 1030px) {
   .navbar-collapse {
-      display: block !important;
-      height: auto !important;
-      padding-bottom: 0;
-      overflow: visible !important;
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
   }
 }
 
@@ -99,6 +99,16 @@
   padding-right: 25px;
 }
 
+.card-img-top {
+  max-height: 173px;
+  padding-bottom: 10px;
+}
+
+a.btn-primary {
+  background-color: #caebf5; /* set the background color to red */
+  border-color: #caebf5; /* set the border color to red */
+  color: #000000; /* set the font color to white */
+}
 
 .social-icons {
   list-style-type: none;
