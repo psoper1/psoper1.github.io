@@ -5,7 +5,7 @@ function ProfileInfo() {
                     <div className="overlay">
                         <div className="about d-flex flex-column">
                             <h4>Preston Soper</h4> 
-                            <span>Web Developer</span>
+                            <span>Full Stack Web Developer</span>
                         </div>
                         
                     </div>
