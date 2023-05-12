@@ -1,5 +1,5 @@
 import TicTacToeScreenshot from "../Pictures/TicTacToeScreenshot.jpg"
-import WeatherAppScreenshot from "../Pictures/WeatherAppScreenshot.jpg";
+import WeatherAppScreenshot from "../Pictures/react-weather-app-screenshot.png";
 import MindReaderScreenshot from "../Pictures/MindReaderScreenshot.jpg";
 import RestaurantMenuScreenshot from "../Pictures/RestaurantMenuScreenshot.jpg";
 import PythonSqlHeroesScreenshot from "../Pictures/PythonSqlHeroesScreenshot.jpg";
@@ -43,7 +43,7 @@ function ProjectsCode() {
                     Tech Stack: Javascript, (Some) CSS
                     </Card.Text>
                     <div className="mt-auto text-center">
-                    <a href="https://psoper1.github.io/WeatherApp/" className="btn btn-primary btn-projects">Take me to the Project!</a>
+                    <a href="https://psoper1.github.io/WeatherApp_With_React/" className="btn btn-primary btn-projects">Take me to the Project!</a>
                     </div>
                 </Card.Body>
             </Card>
