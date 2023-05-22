@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.db5419a6.css",
+    "main.css": "/static/css/main.df596940.css",
     "main.js": "/static/js/main.21650ca0.js",
     "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
-    "static/media/headshot-photo.jpg": "/static/media/headshot-photo.04f1f2eaf5e55cb2b538.jpg",
+    "static/media/preston-headshot.png": "/static/media/preston-headshot.a78970fccc1c0a3ac3dc.png",
     "static/media/bp-sc3.png": "/static/media/bp-sc3.9d6cf2fab3cdde8b6c0b.png",
     "static/media/TicTacToeScreenshot.jpg": "/static/media/TicTacToeScreenshot.e8a109f2b78011ca8304.jpg",
     "static/media/RestaurantMenuScreenshot.jpg": "/static/media/RestaurantMenuScreenshot.4e23573ab6598031c3fb.jpg",
@@ -13,12 +13,12 @@
     "static/media/MindReaderScreenshot.jpg": "/static/media/MindReaderScreenshot.e954f2ef3d6c9f60ba71.jpg",
     "static/media/react-weather-app-screenshot.png": "/static/media/react-weather-app-screenshot.27f024e765ae891f106e.png",
     "index.html": "/index.html",
-    "main.db5419a6.css.map": "/static/css/main.db5419a6.css.map",
+    "main.df596940.css.map": "/static/css/main.df596940.css.map",
     "main.21650ca0.js.map": "/static/js/main.21650ca0.js.map",
     "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db5419a6.css",
+    "static/css/main.df596940.css",
     "static/js/main.21650ca0.js"
   ]
 }
