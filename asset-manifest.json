@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.df596940.css",
-    "main.js": "/static/js/main.21650ca0.js",
+    "main.css": "/static/css/main.0cf329d1.css",
+    "main.js": "/static/js/main.e3121009.js",
     "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
     "static/media/preston-headshot.png": "/static/media/preston-headshot.a78970fccc1c0a3ac3dc.png",
     "static/media/bp-sc3.png": "/static/media/bp-sc3.9d6cf2fab3cdde8b6c0b.png",
@@ -13,12 +13,12 @@
     "static/media/MindReaderScreenshot.jpg": "/static/media/MindReaderScreenshot.e954f2ef3d6c9f60ba71.jpg",
     "static/media/react-weather-app-screenshot.png": "/static/media/react-weather-app-screenshot.27f024e765ae891f106e.png",
     "index.html": "/index.html",
-    "main.df596940.css.map": "/static/css/main.df596940.css.map",
-    "main.21650ca0.js.map": "/static/js/main.21650ca0.js.map",
+    "main.0cf329d1.css.map": "/static/css/main.0cf329d1.css.map",
+    "main.e3121009.js.map": "/static/js/main.e3121009.js.map",
     "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df596940.css",
-    "static/js/main.21650ca0.js"
+    "static/css/main.0cf329d1.css",
+    "static/js/main.e3121009.js"
   ]
 }
