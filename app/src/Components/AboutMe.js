@@ -3,6 +3,7 @@ import Typewriter from "typewriter-effect";
 function AboutMe() {
     return (
         <>
+        <div className='container'>
             <div id="about" className="text-center animatedtext">
                 <Typewriter
 
@@ -26,6 +27,7 @@ function AboutMe() {
                             .start();
                     }}
                 />
+            </div>
             </div>
         </>
     )
