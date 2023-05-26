@@ -1,22 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+
+#root {
+    background-color: #131316;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
 .wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 60vh;
-  background: rgb(33, 37, 41);
+  background: rgba(33, 37, 41, 0);
   border-width: 1px;
 }
 
 #contact {
   margin-top: 8%;
-}
-
-.about {
-  font-family: Alkatra;
-}
-
-#about {
-  font-family: Alkatra;
 }
 
 .navbar {
@@ -27,7 +29,6 @@
   position: sticky;
   top: 0px;
   z-index: 1;
-  /* box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2); */
 }
 
 .navbar-toggler:focus,
@@ -52,19 +53,6 @@
   color: blue;
 }
 
-
-.carousel-text-color {
-  color: black;
-}
-
-.CarImg {
-  filter: brightness(70%);
-}
-
-.footer {
-  background-color: rgba(0, 0, 0, 0.2);
-}
-
 #main-container {
   width: 100%;
 }
@@ -79,7 +67,6 @@
   height: 438px;
   background: url("./Pictures/preston-headshot.png");
   background-size: cover;
-  cursor: pointer;
   border-radius: 50%
 }
 
@@ -95,7 +82,8 @@
 }
 
 .icon {
-  padding-right: 25px;
+  padding-right: 100px;
+  margin-left: 75px;
 }
 
 .card-img-top {
@@ -104,9 +92,9 @@
 }
 
 a.btn-primary {
-  background-color: #caebf5; /* set the background color to red */
-  border-color: #caebf5; /* set the border color to red */
-  color: #000000; /* set the font color to white */
+  background-color: #caebf5;
+  border-color: #caebf5;
+  color: #000000;
 }
 
 .social-icons {
@@ -128,18 +116,15 @@ a.btn-primary {
 }
 
 #about {
-  /* width: 40%; */
   height: auto;
   margin-top: 124px;
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
 }
 
 * {
   margin: 0;
   padding: 0;
-}
-
-body {
-  background-color: #292929;
 }
 
 section {
@@ -150,79 +135,4 @@ section {
   justify-content: center;
   align-content: flex-start;
   flex-wrap: wrap;
-}
-
-ul#downArrow {
-  position: relative;
-  width: 40px;
-  display: flex;
-  align-items: center;
-  flex-flow: column;
-  margin-top: 400%;
-}
-
-ul#downArrow li {
-  list-style: none;
-  width: 8px;
-  height: 8px;
-  background-color: #fff;
-  border-radius: 100%;
-  margin-bottom: 10px;
-  animation: ani 0.8s infinite ease-in-out;
-  animation-delay: calc(0.2s * var(--i));
-  margin-right: 32px;
-}
-
-ul#downArrow::before,
-ul#downArrow::after {
-  position: absolute;
-  content: '';
-  background-color: #fff;
-  width: 30px;
-  height: 3px;
-  bottom: 0;
-}
-
-ul#downArrow::before {
-  right: 0;
-  transform: rotate(-45deg);
-  transform-origin: center right;
-}
-
-ul#downArrow::after {
-  left: 0;
-  transform: rotate(45deg);
-  transform-origin: center left;
-}
-
-@keyframes ani {
-  0% {
-    opacity: 0;
-    transform: scale(0.5) translateY(-5px);
-  }
-
-  50% {
-    opacity: 1;
-    transform: scale(1) translateY(20px);
-  }
-
-  100% {
-    opacity: 0;
-    transform: scale(0.5) translateY(40px);
-  }
-
-}
-
-::-webkit-scrollbar {
-  width: 12px;
-}
-
-::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgb(185, 184, 184);
-  border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb {
-  border-radius: 10px;
-  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
 }

@@ -1,8 +1,31 @@
+import Typewriter from "typewriter-effect";
+
 function AboutMe() {
     return (
         <>
-            <div className="text-center">
-                <h3 id="about">Hello! My name is Preston. Coding is my jam! Also gaming, building PC's, writing and playing music, telling jokes and well, jam... is also my jam!</h3>
+            <div id="about" className="text-center animatedtext">
+                <Typewriter
+
+                    onInit={(typewriter) => {
+
+                        typewriter
+
+                            .typeString("Hello")
+
+                            .pauseFor(1000)
+                            .deleteAll()
+                            .typeString("My name is Preston")
+
+                            .pauseFor(1000)
+                            .deleteAll()
+                            .typeString("I like to build things")
+
+                            .pauseFor(1000)
+                            .deleteAll()
+                            .typeString("Welcome to my website, be sure to have a look around")
+                            .start();
+                    }}
+                />
             </div>
         </>
     )
