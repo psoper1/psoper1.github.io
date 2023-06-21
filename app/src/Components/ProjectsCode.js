@@ -19,7 +19,7 @@ function ProjectsCode() {
                     Tech Stack: Front End: HTML, CSS, ReactJS, Firebase Backend: Python, Django REST, Google Cloud
                     </Card.Text>
                     <div className="mt-auto text-center">
-                    <a href="https://bookapedia-frontend.web.app/" className="btn btn-primary btn-projects">Take me to the Project!</a>
+                    <a href="https://bookapedia-frontend.web.app/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-projects">Take me to the Project!</a>
                     </div>
                 </Card.Body>
             </Card>
@@ -31,7 +31,7 @@ function ProjectsCode() {
                     Tech Stack: HTML, CSS, Javascript
                     </Card.Text>
                     <div className="mt-auto text-center">
-                    <a href="https://psoper1.github.io/tic-tac-toe-game/" className="btn btn-primary btn-projects">Take me to the Project!</a>
+                    <a href="https://psoper1.github.io/tic-tac-toe-game/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-projects">Take me to the Project!</a>
                     </div>
                 </Card.Body>
             </Card>
@@ -43,7 +43,7 @@ function ProjectsCode() {
                     Tech Stack: Javascript, (Some) CSS
                     </Card.Text>
                     <div className="mt-auto text-center">
-                    <a href="https://psoper1.github.io/WeatherApp_With_React/" className="btn btn-primary btn-projects">Take me to the Project!</a>
+                    <a href="https://psoper1.github.io/WeatherApp_With_React/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-projects">Take me to the Project!</a>
                     </div>
                 </Card.Body>
             </Card>
@@ -55,7 +55,7 @@ function ProjectsCode() {
                     Tech Stack: Javascript
                     </Card.Text>
                     <div className="mt-auto text-center">
-                    <a href="https://psoper1.github.io/mind-reader/" className="btn btn-primary btn-projects">Take me to the Project!</a>
+                    <a href="https://psoper1.github.io/mind-reader/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-projects">Take me to the Project!</a>
                     </div>
                 </Card.Body>
             </Card>
@@ -67,7 +67,7 @@ function ProjectsCode() {
                     Tech Stack: React, CSS (Must have CORS Chrome Extension to pull JSON data)
                     </Card.Text>
                     <div className="mt-auto text-center">
-                    <a href="https://psoper1.github.io/menu-project/" className="btn btn-primary btn-projects">Take me to the Project!</a>
+                    <a href="https://psoper1.github.io/menu-project/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-projects">Take me to the Project!</a>
                     </div>
                 </Card.Body>
             </Card>
@@ -79,7 +79,7 @@ function ProjectsCode() {
                     Tech Stack: Python, SQL (postgreSQL)
                     </Card.Text>
                     <div className="mt-auto text-center">
-                    <a href="https://github.com/psoper1/superheroes_sql_python_project" className="btn btn-primary btn-projects">Take me to the Project!</a>
+                    <a href="https://github.com/psoper1/superheroes_sql_python_project" className="btn btn-primary btn-projects" target="_blank" rel="noopener noreferrer">Take me to the Project!</a>
                     </div>
                 </Card.Body>
             </Card>
